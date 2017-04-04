@@ -1,0 +1,13 @@
+
+Esquema de la prueba
+===================
+
+1) suponemos D'♯D
+   1) suponemos
+      - C♯A,  C♯B, l♯l', R♯R'
+      1) suponemos
+      	 R'∉AR, PS♯P'S', QS♯Q'S', O∉RS, S♯S'
+	 -----
+	 concluimos ⊥
+       2) suponemos 
+          R'∉AR, PS♯P'S', QS♯Q'S', O∉RS, S≈S'
