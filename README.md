@@ -45,11 +45,10 @@ Contents
 ---------
 
 - `Relation.Binary.Apartness.agda`  
-   Definition of the apartness relation and constructive setoids.
+   +  Definition of the apartness relation and constructive setoids.
 -  `Data.Fin.Setoid.agda`   
-   Definition of a decidable setoid for `Fin n`.
+   +  Definition of a decidable setoid for `Fin n`.
 - `ProjectivePlane.agda`  
-   Definition of the structure `ProjectivePlane` which represents the constructive
-   axiomatization of the *projective plane*.
-   
-   
+   +  Definition of the structure `ProjectivePlane` which represents the constructive
+      axiomatization of the *projective plane*.
+
