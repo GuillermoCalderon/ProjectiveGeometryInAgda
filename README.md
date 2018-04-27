@@ -49,16 +49,16 @@ propositions and theoremes of the formalization:
 
 ## Definitions
 
-+  [Apartness Relation](/Relation/Binary/Appartness.agda)
-+  Setoids
++  [Apartness Relation](/Relation/Binary/Apartness.agda)
++  [Setoids](/Relation/Binary/Apartness.agda)
 +  [Projective plane](/ProjectivePlane.agda) (*a la Mandelkern*)
-+  Complete n-point
-+  Triangle
-+  Quadrangle
-+  Desarguesian plane
-+  Fanoian plane
-+  Dual projective plane
-+  Harmonic configuration
++  [Complete n-point](/ProjectivePlane/CompleteNPoint.agda)
++  [Triangle](/ProjectivePlane/CompleteNPoint/Triangle.agda)
++  [Quadrangle](/ProjectivePlane/CompleteNPoint/Quadrangle.agda)
++  [Desarguesian plane](/ProjectivePlane/Desargues.agda)
++  [Fanoian plane](ProjectivePlane/Fano.agda)
++  [Dual projective plane](ProjectivePlane/Duality.agda)
++  [Harmonic configuration](/ProjectivePlane/Harmonic/Base.agda#L169)
 +  Harmonic conjugate
 +  van Dalen's projective plane
 +  von Plato appartness geometry
