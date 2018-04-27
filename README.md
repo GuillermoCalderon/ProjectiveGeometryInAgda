@@ -27,7 +27,10 @@ Description
 
 This repository provides the Agda code relative to the paper.
 
-This code was compiled with version 2.6.0 
+This code was compiled with:
+
++  Agda version 2.6.0
++  Standard library 0.14
 
 Author
 ------
@@ -37,3 +40,16 @@ Date
 -----
 
 April 2017
+
+Contents
+---------
+
+- `Relation.Binary.Apartness.agda`  
+   Definition of the apartness relation and constructive setoids.
+-  `Data.Fin.Setoid.agda`   
+   Definition of a decidable setoid for `Fin n`.
+- `ProjectivePlane.agda`  
+   Definition of the structure `ProjectivePlane` which represents the constructive
+   axiomatization of the *projective plane*.
+   
+   
