@@ -44,11 +44,33 @@ April 2017
 Contents
 ---------
 
-- `Relation.Binary.Apartness.agda`  
-   +  Definition of the apartness relation and constructive setoids.
--  `Data.Fin.Setoid.agda`   
-   +  Definition of a decidable setoid for `Fin n`.
-- `ProjectivePlane.agda`  
-   +  Definition of the structure `ProjectivePlane` which represents the constructive
-      axiomatization of the *projective plane*.
+In this section, we provide links to the most important definitions, lemmas,
+propositions and theoremes of the formalization:
 
+## Definitions
+
++  [Apartness Relation](Relation/Binary/Appartness.agda)
++  Setoids
++  [Projective plane](ProjectivePlane.agda) (*a la Mandelkern*)
++  Complete n-point
++  Triangle
++  Quadrangle
++  Desarguesian plane
++  Fanoian plane
++  Dual projective plane
++  Harmonic configuration
++  Harmonic conjugate
++  van Dalen's projective plane
++  von Plato appartness geometry
++  von Plato projective plane
+
+## Propositions
+
++ Basic propositions of incidence
++ Principle of Duality
++ Desargues dual theorem
++ Fano dual theorem
++ Existence of the harmonic conjugate
++ Uniquenes of the harmonic conjugate
++ Equivalence with van Dalen system
++ Equivalence with von Plato system
