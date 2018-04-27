@@ -49,9 +49,9 @@ propositions and theoremes of the formalization:
 
 ## Definitions
 
-+  [Apartness Relation](Relation/Binary/Appartness.agda)
++  [Apartness Relation](/Relation/Binary/Appartness.agda)
 +  Setoids
-+  [Projective plane](ProjectivePlane.agda) (*a la Mandelkern*)
++  [Projective plane](/ProjectivePlane.agda) (*a la Mandelkern*)
 +  Complete n-point
 +  Triangle
 +  Quadrangle
