@@ -45,26 +45,30 @@ Contents
 ---------
 
 In this section, we provide links to the most important definitions, lemmas,
-propositions and theoremes of the formalization:
+propositions and theoremes in the formalization:
 
-## Definitions
+Definitions
+===========
 
-+  [Apartness Relation](/Relation/Binary/Apartness.agda)
-+  [Setoids](/Relation/Binary/Apartness.agda)
-+  [Projective plane](/ProjectivePlane.agda) (*a la Mandelkern*)
-+  [Complete n-point](/ProjectivePlane/CompleteNPoint.agda)
-+  [Triangle](/ProjectivePlane/CompleteNPoint/Triangle.agda)
-+  [Quadrangle](/ProjectivePlane/CompleteNPoint/Quadrangle.agda)
-+  [Desarguesian plane](/ProjectivePlane/Desargues.agda)
-+  [Fanoian plane](ProjectivePlane/Fano.agda)
-+  [Dual projective plane](ProjectivePlane/Duality.agda)
-+  [Harmonic configuration](/ProjectivePlane/Harmonic/Base.agda#L169)
-+  Harmonic conjugate
-+  van Dalen's projective plane
-+  von Plato appartness geometry
-+  von Plato projective plane
++  [Apartness Relation](/Relation/Binary/Apartness.agda#L16)
++  [Setoids](/Relation/Binary/Apartness.agda#L51)
++  [Projective plane](/ProjectivePlane.agda#L132) (*a la Mandelkern*)
++  [Complete n-point](/ProjectivePlane/CompleteNPoint.agda#L26)
++  [Triangle](/ProjectivePlane/CompleteNPoint/Triangle.agda#L128)
++  [Quadrangle](/ProjectivePlane/CompleteNPoint/Quadrangle.agda#L33)
++  [Perspective triangles wrt a center](/ProjectivePlane/CompleteNPoint/Triangle/Perspective.agda#L62)
++  [Perspective triangles wrt an axis](/ProjectivePlane/CompleteNPoint/Triangle/Perspective.agda#L75)
++  [Desarguesian plane](/ProjectivePlane/Desargues.agda#L12)
++  [Fanoian plane](ProjectivePlane/Fano.agda#L46)
++  [Dual projective plane](ProjectivePlane/Duality.agda#L116)
++  [Harmonic configuration](/ProjectivePlane/Harmonic/Base.agda#L28)
++  [Harmonic conjugate](/ProjectivePlane/Harmonic/Base.agda#L169)
++  [van Dalen's projective plane](/ProjectivePlane/VanDalen/Outside.agda)
++  [von Plato's appartness geometry](/ProjectivePlane/VonPlato/ApartnessGeometry.agda)
++  [von Plato's projective plane](/ProjectivePlane/VonPlato/ProjectiveGeometry.agda)
 
-## Propositions
+Propositions
+============
 
 + Basic propositions of incidence
 + Principle of Duality
