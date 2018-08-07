@@ -70,11 +70,11 @@ Definitions
 Propositions
 ============
 
-+ Basic propositions of incidenc
-+ Principle of Duality
-+ Desargues dual theorem
-+ Fano dual theorem
-+ Existence of the harmonic conjugate
-+ Uniquenes of the harmonic conjugate
-+ Equivalence with van Dalen system
-+ Equivalence with von Plato system
++ [Basic propositions of incidence](/ProjectivePlane/Properties.agda)
++ [Principle of Duality](/ProjectivePlane/Duality.agda)
++ [Desargues dual theorem](/ProjectivePlane/Desargues.agda)
++ [Fano dual theorem](/ProjectivePlane/Fano.agda)
++ [Existence of the harmonic conjugate](/ProjectivePlane/Harmonic/Base.agda#L176)
++ [Uniquenes of the harmonic conjugate](/ProjectivePlane/Harmonic/Uniqueness/Main.agda#L27)
++ [Equivalence with van Dalen system](/VanDalen/Outside.agda#L371)
++ [Equivalence with von Plato system](/VonPlato/ProjectiveGeometry.agda#L166)
