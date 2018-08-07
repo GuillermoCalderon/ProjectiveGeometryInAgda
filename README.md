@@ -70,7 +70,7 @@ Definitions
 Propositions
 ============
 
-+ Basic propositions of incidence
++ Basic propositions of incidenc
 + Principle of Duality
 + Desargues dual theorem
 + Fano dual theorem
