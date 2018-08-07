@@ -63,9 +63,9 @@ Definitions
 +  [Dual projective plane](ProjectivePlane/Duality.agda#L116)
 +  [Harmonic configuration](/ProjectivePlane/Harmonic/Base.agda#L28)
 +  [Harmonic conjugate](/ProjectivePlane/Harmonic/Base.agda#L169)
-+  [van Dalen's projective plane](/ProjectivePlane/VanDalen/Outside.agda)
-+  [von Plato's appartness geometry](/ProjectivePlane/VonPlato/ApartnessGeometry.agda)
-+  [von Plato's projective plane](/ProjectivePlane/VonPlato/ProjectiveGeometry.agda)
++  [van Dalen's projective plane](/VanDalen/Outside.agda)
++  [von Plato's appartness geometry](/VonPlato/ApartnessGeometry.agda)
++  [von Plato's projective plane](/VonPlato/ProjectiveGeometry.agda)
 
 Propositions
 ============
