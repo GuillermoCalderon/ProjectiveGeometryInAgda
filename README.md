@@ -25,7 +25,8 @@ which result very helpful to reduce the typical verbosity of formal proofs.
 Description
 ------------
 
-This repository provides the Agda code relative to the paper.
+This repository provides the Agda code relative to the paper
+[Formalizing Constructive Projective Geometry in Agda](https://doi.org/10.1016/j.entcs.2018.10.005)
 
 This code was compiled with:
 
