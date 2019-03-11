@@ -35,7 +35,7 @@ This code was compiled with:
 
 Author
 ------
-Guillermo Calderon (calderon@fing.edu.uy)
+Guillermo Calderón (<calderon@fing.edu.uy>)
 
 Date
 -----
