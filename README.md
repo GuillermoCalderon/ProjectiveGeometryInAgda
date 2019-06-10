@@ -35,7 +35,7 @@ This code was compiled with:
 
 Author
 ------
-Guillermo Calderón (< mg src= "https://www.fing.edu.uy/~calderon/ppqqxr01.gif" />)
+Guillermo Calderón ( <img src= "https://www.fing.edu.uy/~calderon/ppqqxr01.gif" /> )
 
 Date
 -----
